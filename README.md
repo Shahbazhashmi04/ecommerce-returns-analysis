@@ -47,6 +47,4 @@ To understand how product returns affect profits and identify strategies to redu
 Developed as a learning project with guidance from **ChatGPT**.  
 All analysis and insights created by the author.
 
----
 
-## 📂 Repository Structure
