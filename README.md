@@ -44,3 +44,30 @@ This project helped me strengthen my skills in:
 - Google Colab (for coding and visualization)
 
 ---
+## How to Use
+1. Clone or download the repository  
+2. Open the notebook in Google Colab or Jupyter  
+3. Upload the dataset  
+4. Run all cells to see the full analysis and results
+
+---
+
+## Dataset
+The dataset is **synthetic** (created for learning purposes) and contains columns like product category, price, cost, discount, region, return reason, and profit metrics.
+
+---
+
+## Next Steps
+In the future, I’d like to:
+- Build a simple machine learning model to **predict product returns**
+- Create an interactive dashboard using **Plotly** or **Power BI**
+
+---
+
+## Acknowledgment
+I built this project as part of my data science learning journey, with some guidance from online resources and AI tools. All the analysis, interpretation, and insights were done by me.
+
+---
+
+## License
+This project is open-source and available under the MIT License.
