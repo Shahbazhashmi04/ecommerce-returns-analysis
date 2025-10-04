@@ -20,10 +20,10 @@ To understand how product returns affect profits and identify strategies to redu
 ---
 
 ## 💡 Recommendations
-1. Improve size & product details to reduce “Size Issue” returns.
-2. Audit North region logistics and operations.
-3. Avoid excessive discounting; focus on moderate levels.
-4. Review return policies for Beauty & Home categories.
+1. Improve size & product details to reduce “Size Issue” returns.  
+2. Audit North region logistics and operations.  
+3. Avoid excessive discounting; focus on moderate levels.  
+4. Review return policies for Beauty & Home categories.  
 
 ---
 
@@ -36,15 +36,14 @@ To understand how product returns affect profits and identify strategies to redu
 ---
 
 ## ⚙️ Tools & Libraries
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Google Colab
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Google Colab  
 
 ---
 
-## 🤝 Acknowledgement
-Developed as a learning project with guidance from **ChatGPT**.  
-All analysis and insights created by the author.
+## 🧾 Data Description
+The dataset (`ecommerce_returns_dataset.csv`) is a **synthetic dataset** created for learning purposes, containing information about orders, categories, prices, discounts, returns, and profits.
 
-
+---
