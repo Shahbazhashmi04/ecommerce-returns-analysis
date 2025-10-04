@@ -1,49 +1,46 @@
-# 🛍️ E-Commerce Returns & Profitability Analysis
+# E-Commerce Returns & Profitability Analysis
 
-This project analyzes the impact of product returns, discounts, and categories on overall profitability using a synthetic e-commerce dataset.
-
----
-
-## 🎯 Objective
-To understand how product returns affect profits and identify strategies to reduce losses.
+This is one of my data science learning projects where I analyzed how product returns affect an e-commerce company's overall profitability. The goal was to find out which factors (like category, region, and discounts) contribute most to losses and how we can improve business performance.
 
 ---
 
-## 📊 Key Insights
-- **Overall Return Rate:** 17.7%  
-- **Main Return Reason:** Size Issue  
-- **Total Profit Lost:** $45,556.92  
-- **Highest Loss Category:** Home & Beauty  
-- **Highest Loss Region:** North  
-- **High Discounts (>20%) → Higher Returns**
+## Project Goal
+
+In this project, I wanted to:
+- Calculate the overall return rate and profit loss
+- Identify categories and regions with the highest returns
+- Understand how discounts impact return behavior
+- Suggest practical ways to reduce losses and improve profit margins
 
 ---
 
-## 💡 Recommendations
-1. Improve size & product details to reduce “Size Issue” returns.  
-2. Audit North region logistics and operations.  
-3. Avoid excessive discounting; focus on moderate levels.  
-4. Review return policies for Beauty & Home categories.  
+## Key Insights
+
+After cleaning and analyzing the data, I found:
+- Overall return rate: **17.7%**
+- Most common return reason: **Size Issue**
+- Total profit lost due to returns: **$45,556.92**
+- Highest loss categories: **Home** and **Beauty**
+- North region had the highest return-related losses
+- Higher discounts (>20%) led to more returns
 
 ---
 
-## 🧠 Project Workflow
-1. **Data Cleaning** — handle missing values, select features  
-2. **Exploratory Data Analysis (EDA)** — visualize returns by category, region, discount  
-3. **Profitability Dashboard** — compute losses and KPIs  
-4. **Insights & Recommendations**  
+## What I Learned
+
+This project helped me strengthen my skills in:
+- **Data cleaning** and handling missing values  
+- **Exploratory Data Analysis (EDA)** with Pandas and Matplotlib  
+- Building a **profitability dashboard** using groupby and KPIs  
+- Interpreting data to make **business recommendations**
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools and Libraries Used
+
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Google Colab  
-
----
-
-## 🧾 Data Description
-The dataset (`ecommerce_returns_dataset.csv`) is a **synthetic dataset** created for learning purposes, containing information about orders, categories, prices, discounts, returns, and profits.
+- Google Colab (for coding and visualization)
 
 ---
