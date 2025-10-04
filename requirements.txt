@@ -1,12 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
 
----
 
-## 🚀 How to Run
-1. Open in Google Colab
-2. Upload dataset
-3. Run all cells
-
----
-
-## 🧾 License
-MIT License
+Google Colab/Jupyter
